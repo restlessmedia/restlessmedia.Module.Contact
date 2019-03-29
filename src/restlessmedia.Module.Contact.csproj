@@ -61,8 +61,9 @@
     <Reference Include="restlessmedia.Module, Version=0.32.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\restlessmedia.Module.0.32.0\lib\net452\restlessmedia.Module.dll</HintPath>
     </Reference>
-    <Reference Include="restlessmedia.Module.Address, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\restlessmedia.Module.Address.0.1.0\lib\net452\restlessmedia.Module.Address.dll</HintPath>
+    <Reference Include="restlessmedia.Module.Address, Version=0.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\restlessmedia.Module.Address.0.2.0\lib\net452\restlessmedia.Module.Address.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="restlessmedia.Module.Data.EF, Version=0.4.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\restlessmedia.Module.Data.EF.0.4.0\lib\net452\restlessmedia.Module.Data.EF.dll</HintPath>
