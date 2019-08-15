@@ -8,6 +8,7 @@ namespace restlessmedia.Module.Contact
     public void RegisterComponents(ContainerBuilder containerBuilder)
     {
       containerBuilder.RegisterType<ContactDataProvider>().As<IContactDataProvider>().SingleInstance();
+      containerBuilder.RegisterType<ContactService>().As<IContactService>().SingleInstance();
     }
   }
 }
