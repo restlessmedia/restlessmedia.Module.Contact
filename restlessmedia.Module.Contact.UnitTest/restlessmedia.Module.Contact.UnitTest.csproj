@@ -33,7 +33,7 @@
       <PackageReference Include="restlessmedia.Test" Version="1.0.0" />
       <PackageReference Include="SqlBuilder" Version="2.0.1" />
       <PackageReference Include="SqlBuilder.DataServices" Version="2.0.0" />
-      <PackageReference Include="StackExchange.Redis.StrongName" Version="1.2.6" />
+      <PackageReference Include="StackExchange.Redis" Version="2.2.4" />
       <PackageReference Include="xunit" Version="2.4.1" />
       <PackageReference Include="xunit.abstractions" Version="2.0.3" />
       <PackageReference Include="xunit.analyzers" Version="0.10.0" />
